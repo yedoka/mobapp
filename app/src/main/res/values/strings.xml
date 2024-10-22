@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">3rd-lelsson</string>
+    <string name="welcomeImage">welcome image</string>
+    <string name="welcomeHeading">Welcome back!</string>
+    <string name="welcomeSubheading">sign in to access your account</string>
+    <string name="emailPlaceholder">Enter your email</string>
+    <string name="passwordPlaceholder">Password</string>
+    <string name="rememberMeCheckboxText">Remember me</string>
+    <string name="forgetPasswordText">Forget password</string>
+    <string name="nextButtonText">Next</string>
+    <string name="newMemberText">New member?</string>
+    <string name="registerNowText">Register Now</string>
 </resources>
